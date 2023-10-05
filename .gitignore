@@ -1,3 +1,5 @@
 node_modules
 .env
 .env.test
+src/database/database.db
+src/database/test-database.db
